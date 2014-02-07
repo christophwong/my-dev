@@ -51,12 +51,16 @@ ul.nav li a {
 	margin: 50px 0 75px 0;
 }
 
-#new-cupcakes img {
+#jacket img {
 	border: 8px solid #FAF3BC;
-	margin: 0 0 20px 0;
 }
 
-#featured-cupcake img {
+#hammock img {
+	border: 8px solid #FAF3BC;
+	margin: 5px 0 20px 0;
+}
+
+#motor img {
 	border: 8px solid #FAF3BC;
 }
 
